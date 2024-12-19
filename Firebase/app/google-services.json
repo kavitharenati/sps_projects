@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679094001241",
+    "project_id": "fir-project-eafdf",
+    "storage_bucket": "fir-project-eafdf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679094001241:android:57a20eced3216aa8a69b48",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFRX23RhELGaNooSE0Z3MvMf7jrW96Ua0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

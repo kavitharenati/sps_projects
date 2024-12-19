@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031312588107",
+    "project_id": "employee-details-3f18b",
+    "storage_bucket": "employee-details-3f18b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031312588107:android:a3853ca5af6c776920bcce",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.employeedetails"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIO0rDsFC5MSVqGpMJgWn4BLtbXKY5EE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

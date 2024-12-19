@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">images</string>
+    <string name="source">rose</string>
+    <string name="rose">rose</string>
+    <string name="jasmine">jasmine</string>
+    <string name="sunflower">sunflower</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">profile</string>
+    <string name="profile_details">profile_details</string>
+    <string name="first_name">first_name</string>
+    <string name="last_name">last_name</string>
+    <string name="phone_number">phone_number</string>
+    <string name="email_address">email_address</string>
+    <string name="address">address</string>
+    <string name="blood_group">blood_group</string>
+    <string name="enter_first_name">enter_first_name</string>
+    <string name="enter_last_name">enter_last_time</string>
+    <string name="enter_phone_number">enter_phone_number</string>
+    <string name="enter_email_address">enter_email_address</string>
+    <string name="enter_address">enter_address</string>
+    <string name="enter_blood_group">enter_blood_group</string>
+</resources>

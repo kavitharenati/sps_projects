@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680729243366",
+    "project_id": "navigationde-5b5d3",
+    "storage_bucket": "navigationde-5b5d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680729243366:android:dc779caece9c957b819527",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.navigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJmdr__levhC5tNqnUZQL0bSLROxU7x9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

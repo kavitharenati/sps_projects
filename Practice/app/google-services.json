@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475439515664",
+    "project_id": "practicedetails",
+    "storage_bucket": "practicedetails.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475439515664:android:94cd615cd5c9f6004a6295",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnnVYHTPg7bLGEHU8kyYnzTWY2s5oT36o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

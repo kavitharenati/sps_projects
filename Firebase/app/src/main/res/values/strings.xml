@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="Confirm_Password">Confirm_password</string>
+    <string name="Password">password</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+</resources>

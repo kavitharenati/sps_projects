@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Validation demo</string>
+    <string name="enter_username">enter_username</string>
+    <string name="enter_name">enter_username</string>
+    <string name="enter_password">enter_password</string>
+    <string name="enter_phone_number">enter_phone_number</string>
+    <string name="enter_email_address">enter_email_address</string>
+    <string name="confirm_password">confirm_password</string>
+    <string name="signup">signup</string>
+</resources>

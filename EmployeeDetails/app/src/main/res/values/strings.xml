@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EmployeeDetails</string>
+    <string name="enter_email">enter_email</string>
+    <string name="enter_password">enter_password</string>
+    <string name="signin">signin</string>
+    <string name="signup">signup</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm_password</string>
+    <string name="Signup">Signup</string>
+    <string name="title">Title</string>
+    <string name="product_name">employee_name</string>
+    <string name="employee_name">employee_name</string>
+    <string name="employee_id">employee_id</string>
+    <string name="employee_mbl">employee_mbl</string>
+    <string name="employee_address">employee_address</string>
+    <string name="add">add</string>
+    <string name="employeename">employeename</string>
+    <string name="textview">textview</string>
+</resources>

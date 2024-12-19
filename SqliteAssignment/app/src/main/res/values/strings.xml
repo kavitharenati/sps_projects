@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sqlite Assignment</string>
+    <string name="id">id</string>
+    <string name="enter_team">enter_team</string>
+    <string name="enter_name">enter_name</string>
+    <string name="enter_email_address">enter_category</string>
+    <string name="enter_category">enter_category</string>
+    <string name="enter_age">enter_age</string>
+    <string name="enter_team_name">enter_team_name</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="registerTitle" type="id">registerTitle</item>
+    <item name="firstNameEditText" type="id">firstNameEditText</item>
+    <item name="lastNameEditText" type="id">lastNameEditText</item>
+    <item name="phoneNumberEditText" type="id">phoneNumberEditText</item>
+    <item name="dobEditText" type="id">dobEditText</item>
+</resources>
